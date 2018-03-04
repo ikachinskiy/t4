@@ -1,5 +1,5 @@
 <?php
-
+//TODO Панель веб-профайлера запускается только при явно заданном index.php - ПОЧЕМУ?
 use App\Kernel;
 use Symfony\Component\Debug\Debug;
 use Symfony\Component\Dotenv\Dotenv;
