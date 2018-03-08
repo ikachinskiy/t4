@@ -5,5 +5,5 @@
 
 {% block body %}
 <h1>Это первый шаблон</h1>
-<a href={{ path('base') }}>Второй</a>
+    {{ knp_menu_render('SNGMenuBundle:Builder:mainMenu') }}
 {% endblock %}
