@@ -6,7 +6,7 @@
  * Time: 11:33
  */
 
-namespace App\SNG\MenuBandle;
+namespace App\SNG\MenuBundle;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 
 class SNGMenuBundle extends Bundle

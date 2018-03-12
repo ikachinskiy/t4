@@ -6,7 +6,7 @@
  * Time: 22:10
  */
 
-namespace App\SNG\MenuBandle\Menu;
+namespace App\SNG\MenuBundle\Menu;
 
 use Knp\Menu\FactoryInterface;
 use Symfony\Component\DependencyInjection\ContainerAwareInterface;
